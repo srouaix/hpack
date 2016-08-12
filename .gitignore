@@ -1,0 +1,153 @@
+######################
+# Project Specific
+######################
+/src/main/webapp/content/css/main.css
+/build/www/**
+
+######################
+# Node
+######################
+/node/**
+/node_tmp/**
+/node_modules/**
+
+######################
+# SASS
+######################
+.sass-cache/**
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+/src/main/webapp/bower_components/**
+
+# External tool builders
+.externalToolBuilders/**
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+######################
+# Intellij
+######################
+.idea/**
+
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Maven
+######################
+/log/**
+/target/**
+
+######################
+# Gradle
+######################
+.gradle/**
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+######################
+# Directories
+######################
+/build/**
+/spring_loaded/**
+/deploy/**
+
+######################
+# Logs
+######################
+*.log
+
+######################
+# Others
+######################
+*.class
+*.*~
+*~
+.merge_file*
+
+######################
+# Gradle Wrapper
+######################
+!gradle/wrapper/gradle-wrapper.jar
+
+######################
+# Maven Wrapper
+######################
+!.mvn/wrapper/maven-wrapper.jar
+
+######################
+# ESLint
+######################
+.eslintcache
+build/
+lib/
+node_modules/
+src/main/scala/
+src/main/webapp/bower_components/angularjs-slider/
+src/main/webapp/bower_components/bootstrap-sass/assets/images/
+src/main/webapp/bower_components/jquery/dist/core.js
+src/main/webapp/bower_components/jquery/external/
+src/main/webapp/bower_components/jquery/src/core/ready-no-deferred.js
+src/main/webapp/bower_components/jquery/src/css/var/isHiddenWithinTree.js
+src/main/webapp/bower_components/jquery/src/var/ObjectFunctionString.js
+src/main/webapp/bower_components/jquery/src/var/fnToString.js
+src/main/webapp/bower_components/jquery/src/var/getProto.js
+src/main/webapp/bower_components/seiyria-bootstrap-slider/
+src/test/gatling/bodies/
+src/test/gatling/data/
+src/test/gatling/simulations/
